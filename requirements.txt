@@ -1,0 +1,8 @@
+speechrecognition
+scipy
+numpy
+fuzzywuzzy
+python-Levenshtein
+pandas
+soundfile
+openpyxl
